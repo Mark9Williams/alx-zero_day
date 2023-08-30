@@ -1,1 +1,1 @@
-My second Readme
+Learning git commands from the the teriminal
